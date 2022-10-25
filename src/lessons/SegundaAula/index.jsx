@@ -1,9 +1,9 @@
 import './style.scss'
 
-export function SegundaAula(){
+export function classroom4(){
     return (
         <main>
-            <h1>Segunda Aula</h1>
+            <h1>Olá, eu sou a quarta aula</h1>
             <h2>Projeto escolhido: Netflix</h2>
             <ul>
                 <li>Primeiro componente:</li>
